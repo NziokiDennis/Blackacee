@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Blackacee
+- 👋 Hi, I’m @NziokiDk
 - 👀 I’m interested in Software Engineering and Avionics
 - 🌱 I’m currently learning JavaScript then Python and PHP
 - 💞️ I’m looking to collaborate on projects looking to solve real life problems
